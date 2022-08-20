@@ -169,4 +169,12 @@ main {
     color: var(--text-grey);
 }
 
+.log-out {
+    background-color: #ea563c;
+    padding: 1rem;
+    border-radius: 5px;
+}
 
+.log-out a {
+    color: white;
+}
